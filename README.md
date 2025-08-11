@@ -1,5 +1,7 @@
 # Página de exemplo
-Um respositório de exemplo criado para ensinar como criar uma página usando GitHub (como parte do curso REA e licenças CC).
+Um respositório de exemplo criado para ensinar como criar uma página usando GitHub (como parte do [curso REA e licenças CC](https://marcosvital.github.io/Curso-REA/)).
+
+Este conteúdo está disponível sob a licença [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br).
 
 Você vai precisar aprender um pouquinho de Markdown para editar os arquivos .md (como este "README").
 
